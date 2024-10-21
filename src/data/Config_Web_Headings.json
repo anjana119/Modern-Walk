@@ -1,0 +1,13 @@
+{
+    "Site_Name": "Modern Walk",
+    "Heading_1": "Flash Sale",
+    "Heading_2": "Categories",
+    "Category_option_Men":  {
+        "text": "Men's Clothing",
+        "bg_color": "#2BD9AF"
+    },
+    "Category_option_Women":  {
+        "text": "Women's Clothing",
+        "bg_color": "#FF5E84"
+    }
+}
